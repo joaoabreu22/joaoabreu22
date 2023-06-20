@@ -3,7 +3,7 @@
         
 <div align="center">
         
-##  Hello, I'm João Abreu, Welcome! This is my GitHub 🚀💻 
+##  Olá, Eu sou o João Abreu, Seja Bem vindo(a)! Esse é meu GitHub 🚀💻 
         
 </div>
 
