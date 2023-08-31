@@ -17,9 +17,8 @@
         
   <div align="center">
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoabreu22&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoabreu22&layout=compact&langs_count=7&theme=merko"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoabreu22&show_icons=true&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoabreu22&layout=compact&langs_count=7&theme=merko"/>
 </a>
 <br/><br/>  
 
